@@ -2,7 +2,7 @@
 
 Code base for the **Automate Office Documents with Open XML SDK, Azure Functions, and Microsoft Power Automate** presentation and demo.
 
-####Requirements:
+#### Requirements:
 - Microsoft Office account tenant for your team (available in event)
 - Visual Studio (Community is fine)
 NOTE: Install the Azure Development workload, for other requirements, follow [Develop Azure Functions using Visual Studio](https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs)
